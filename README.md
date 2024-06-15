@@ -1,4 +1,4 @@
-# 🌡️ Health Check and Weather Forecast API 🌦️
+# 🌡️ Health Check
 
 This project demonstrates an ASP.NET Core application with integrated health checks for Redis and MongoDB, along with a simple weather forecast API.
 
